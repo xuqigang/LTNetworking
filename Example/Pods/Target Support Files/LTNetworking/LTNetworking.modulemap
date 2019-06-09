@@ -1,0 +1,6 @@
+framework module LTNetworking {
+  umbrella header "LTNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

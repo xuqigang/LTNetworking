@@ -1,0 +1,22 @@
+{
+  "name": "LTNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of LTNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuqigang10@163.com/LTNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuqigang10@163.com": "xuqigang10@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xuqigang10@163.com/LTNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LTNetworking/Classes/**/*"
+}
