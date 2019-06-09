@@ -226,7 +226,6 @@
 				6003F5AA195388D20070C39A /* Sources */,
 				6003F5AB195388D20070C39A /* Frameworks */,
 				6003F5AC195388D20070C39A /* Resources */,
-				C1F3AC47E527F9A81EDCA701 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -329,24 +328,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LTNetworking_Example/Pods-LTNetworking_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C1F3AC47E527F9A81EDCA701 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-LTNetworking_Tests/Pods-LTNetworking_Tests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/FBSnapshotTestCase/FBSnapshotTestCase.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSnapshotTestCase.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LTNetworking_Tests/Pods-LTNetworking_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EB4B494097D1221B5330DBDB /* [CP] Check Pods Manifest.lock */ = {

@@ -1,27 +1,16 @@
 PODS:
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
-  - LTNetworking (0.1.0)
+  - LTNetworking (0.1.2)
 
 DEPENDENCIES:
-  - FBSnapshotTestCase
-  - LTNetworking (from `../`)
-
-SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
-    - FBSnapshotTestCase
+  - LTNetworking (from `/Users/hanxiaojie/Documents/GitHub/LTNetworking`)
 
 EXTERNAL SOURCES:
   LTNetworking:
-    :path: "../"
+    :path: "/Users/hanxiaojie/Documents/GitHub/LTNetworking"
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  LTNetworking: 9289c8d548197202adc9fd55964fb93c8a307d79
+  LTNetworking: 9e9e50a489902c1139e293cbce0c8d552ecb0349
 
-PODFILE CHECKSUM: 9c9caba9a8d2408a3d064f7ee5f9c7734e4a29a7
+PODFILE CHECKSUM: 714f9be7dc258f3a5e9d4ff3f5969c87b4780295
 
 COCOAPODS: 1.5.0
